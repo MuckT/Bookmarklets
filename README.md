@@ -1,5 +1,5 @@
 # Bookmarklets
 A collection of JavaScript bookmarklets for Chrome
 
-# ClickXPath 
+## ClickXPath 
 Clicks Specified XPath X times; based on user input.

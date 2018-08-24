@@ -1,0 +1,8 @@
+//Basic Bookmarket Layout
+javascript:(function(){;})();
+
+//Basic Bookmarket Alert
+javascript:(function(){alert(123);})();
+
+//Basic XPath Clicker
+javascript:(function(){var xPath=prompt("Enter XPath to click!","/html/head");document.evaluate(xPath,document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null).singleNodeValue.click();})();

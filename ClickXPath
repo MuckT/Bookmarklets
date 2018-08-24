@@ -1,1 +1,1 @@
-javascript:(function(){var xPath=prompt("Enter XPath to click.", "/html/head");document.evaluate(xPath ,document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null ).singleNodeValue.click();})();
+javascript:(function(){var xPath=prompt("Enter XPath to click!","/html/head");document.evaluate(xPath,document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null).singleNodeValue.click();})();

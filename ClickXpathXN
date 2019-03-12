@@ -1,1 +1,0 @@
-javascript:(function(){var clickNum=prompt("Enter number of clicks!",10);var xPath=prompt("Enter XPath to click!","/html/head");for(i=0;i< clickNum;i++){document.evaluate(xPath,document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null).singleNodeValue.click();}})();
